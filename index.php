@@ -11,10 +11,10 @@
 	require 'pdoWrapper.php';
 
 	$dbConfig = array(
-		'host' => 'localhost',
-		'dbName' => 'db_slim',
-		'dbUser' => 'root',
-		'dbPassword' => '123456'
+		'host' => '<Db Host>',
+		'dbName' => '<Db Name>',
+		'dbUser' => '<Db User>',
+		'dbPassword' => '<Db Password>'
 	);
 
 	$app = new \Slim\App( array("MODE" => "developement") );
