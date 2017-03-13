@@ -2,8 +2,7 @@
 
 Author : Gopal Joshi<br/ >
 Website: www.sgeek.org<br/ >
-Tutorial : WebService Using Slim<br/ >
-Description: Tutorial of web service  <br>
+Title : WebService Using Slim<br/ >
 Tutorial: http://sgeek.org/create-a-restful-web-service-api-with-slim/<br>
 Usage:
 
